@@ -125,15 +125,3 @@ Check a change against real repos without the UI:
 ```bash
 cd app && npx tsx ../scripts/smoke.ts owner/repo
 ```
-
-## Honest limits
-
-- Route detection is static. Routes built from variables or runtime config can be missed, so every endpoint links to its source line.
-- Only JS/TS is parsed into real ASTs. Other languages use careful pattern matching. tree-sitter grammars are the planned upgrade.
-- Vulnerabilities are matched against the minimum version a manifest range allows. Lockfiles aren't parsed yet.
-- URL mode never sees backend code or private endpoints, and SPAs that fetch after load show less. Rendered-page analysis with a headless browser is a later upgrade.
-- Private repos are out of scope for v1.
-
-## Keyboard
-
-`⌘/Ctrl K` command palette · `1`–`8` switch views · `F` focus mode · `L` scan log · `T` theme · `Esc` clear selection · `/` focus the input on the landing page
