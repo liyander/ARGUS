@@ -1,0 +1,7 @@
+name = "stackscope-edge"
+main = "src/index.ts"
+compatibility_date = "2026-09-01"
+
+[vars]
+# Comma-separated origins allowed to call the worker, e.g. "https://stackscope.dev"
+ALLOWED_ORIGINS = "*"

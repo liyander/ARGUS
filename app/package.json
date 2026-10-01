@@ -1,0 +1,47 @@
+{
+  "name": "stackscope-app",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b",
+    "showcase": "tsx ../scripts/build-showcase.ts"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.29.9",
+    "@xyflow/react": "^12.12.0",
+    "cmdk": "^1.1.1",
+    "comlink": "^4.4.2",
+    "d3": "^7.9.0",
+    "elkjs": "^0.12.0",
+    "framer-motion": "^13.4.6",
+    "html-to-image": "^1.11.13",
+    "idb-keyval": "^6.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.18.4",
+    "shiki": "^4.5.0",
+    "three": "^0.186.1",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@babel/types": "^7.29.8",
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/d3": "^7.4.3",
+    "@types/node": "^26.6.3",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@types/three": "^0.186.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
+  }
+}

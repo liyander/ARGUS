@@ -137,5 +137,3 @@ cd app && npx tsx ../scripts/smoke.ts owner/repo
 ## Keyboard
 
 `⌘/Ctrl K` command palette · `1`–`8` switch views · `F` focus mode · `L` scan log · `T` theme · `Esc` clear selection · `/` focus the input on the landing page
-#   A R G U S  
- 
