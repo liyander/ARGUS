@@ -4,7 +4,7 @@
   "slug": "torvalds-linux-tree-master-kernel",
   "title": "torvalds/linux",
   "description": "Linux kernel source tree",
-  "stars": 254019,
+  "stars": 254125,
   "score": 57,
   "grade": "F",
   "stack": [
@@ -17,7 +17,7 @@
    "manifests": 0,
    "dependencies": 0,
    "filesAnalyzed": 667,
-   "loc": 550130,
+   "loc": 550154,
    "endpoints": 0,
    "pages": 0,
    "modules": 22,
@@ -27,14 +27,14 @@
    "importEdges": 555
   },
   "language": "C",
-  "analyzedAt": "2026-11-01T10:32:48.831Z"
+  "analyzedAt": "2026-11-02T11:11:36.177Z"
  },
  {
   "target": "facebook/react",
   "slug": "facebook-react",
   "title": "react/react",
   "description": "The library for web and native user interfaces.",
-  "stars": 252062,
+  "stars": 252083,
   "score": 48,
   "grade": "F",
   "stack": [
@@ -62,14 +62,14 @@
    "importEdges": 4827
   },
   "language": "JavaScript",
-  "analyzedAt": "2026-11-01T10:28:31.979Z"
+  "analyzedAt": "2026-11-02T11:08:02.945Z"
  },
  {
   "target": "n8n-io/n8n",
   "slug": "n8n-io-n8n",
   "title": "n8n-io/n8n",
   "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-  "stars": 209242,
+  "stars": 209345,
   "score": 76,
   "grade": "C",
   "stack": [
@@ -83,30 +83,30 @@
    "Pinecone"
   ],
   "counts": {
-   "files": 33046,
-   "sourceFiles": 14237,
-   "testFiles": 13106,
-   "manifests": 97,
+   "files": 33105,
+   "sourceFiles": 14264,
+   "testFiles": 13132,
+   "manifests": 98,
    "dependencies": 656,
    "filesAnalyzed": 1494,
-   "loc": 109991,
+   "loc": 109808,
    "endpoints": 12,
    "pages": 0,
-   "modules": 102,
+   "modules": 103,
    "vulnerabilities": 114,
    "services": 13,
    "datastores": 10,
    "importEdges": 2440
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:36:01.934Z"
+  "analyzedAt": "2026-11-02T11:14:11.598Z"
  },
  {
   "target": "microsoft/vscode/tree/main/src/vs/workbench",
   "slug": "microsoft-vscode-tree-main-src-vs-workbench",
   "title": "microsoft/vscode",
   "description": "Visual Studio Code",
-  "stars": 194443,
+  "stars": 194472,
   "score": 55,
   "grade": "F",
   "stack": [
@@ -115,30 +115,30 @@
    "Anthropic"
   ],
   "counts": {
-   "files": 5596,
-   "sourceFiles": 3434,
-   "testFiles": 1633,
+   "files": 5599,
+   "sourceFiles": 3435,
+   "testFiles": 1635,
    "manifests": 1,
-   "dependencies": 173,
+   "dependencies": 174,
    "filesAnalyzed": 1500,
-   "loc": 518813,
+   "loc": 519063,
    "endpoints": 0,
    "pages": 0,
    "modules": 1,
    "vulnerabilities": 33,
    "services": 1,
    "datastores": 0,
-   "importEdges": 5399
+   "importEdges": 5401
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:32:23.014Z"
+  "analyzedAt": "2026-11-02T11:11:16.411Z"
  },
  {
   "target": "vercel/next.js",
   "slug": "vercel-next-js",
   "title": "vercel/next.js",
   "description": "The React Framework",
-  "stars": 143466,
+  "stars": 143463,
   "score": 53,
   "grade": "F",
   "stack": [
@@ -152,13 +152,13 @@
    "Tailwind CSS 4"
   ],
   "counts": {
-   "files": 34856,
-   "sourceFiles": 6661,
-   "testFiles": 20490,
+   "files": 34916,
+   "sourceFiles": 6662,
+   "testFiles": 20543,
    "manifests": 329,
    "dependencies": 584,
    "filesAnalyzed": 1489,
-   "loc": 279011,
+   "loc": 279870,
    "endpoints": 6,
    "pages": 75,
    "modules": 126,
@@ -168,14 +168,14 @@
    "importEdges": 1576
   },
   "language": "JavaScript",
-  "analyzedAt": "2026-11-01T10:28:00.250Z"
+  "analyzedAt": "2026-11-02T11:07:39.896Z"
  },
  {
   "target": "excalidraw/excalidraw",
   "slug": "excalidraw-excalidraw",
   "title": "excalidraw/excalidraw",
   "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
-  "stars": 134962,
+  "stars": 135016,
   "score": 53,
   "grade": "F",
   "stack": [
@@ -201,14 +201,14 @@
    "importEdges": 2849
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:31:18.767Z"
+  "analyzedAt": "2026-11-02T11:10:25.194Z"
  },
  {
   "target": "shadcn-ui/ui",
   "slug": "shadcn-ui-ui",
   "title": "shadcn-ui/ui",
   "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
-  "stars": 127093,
+  "stars": 127159,
   "score": 71,
   "grade": "C",
   "stack": [
@@ -228,7 +228,7 @@
    "manifests": 6,
    "dependencies": 155,
    "filesAnalyzed": 1500,
-   "loc": 224547,
+   "loc": 224650,
    "endpoints": 8,
    "pages": 19,
    "modules": 51,
@@ -238,14 +238,14 @@
    "importEdges": 4153
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:33:27.125Z"
+  "analyzedAt": "2026-11-02T11:12:05.398Z"
  },
  {
   "target": "immich-app/immich",
   "slug": "immich-app-immich",
   "title": "immich-app/immich",
   "description": "High performance self-hosted photo and video management solution.",
-  "stars": 117855,
+  "stars": 117954,
   "score": 59,
   "grade": "F",
   "stack": [
@@ -275,14 +275,14 @@
    "importEdges": 2798
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:35:39.782Z"
+  "analyzedAt": "2026-11-02T11:13:53.786Z"
  },
  {
   "target": "supabase/supabase/tree/master/apps/studio",
   "slug": "supabase-supabase-tree-master-apps-studio",
   "title": "supabase/supabase",
   "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-  "stars": 114395,
+  "stars": 114431,
   "score": 60,
   "grade": "D",
   "stack": [
@@ -296,30 +296,30 @@
    "AWS"
   ],
   "counts": {
-   "files": 5732,
-   "sourceFiles": 4380,
+   "files": 5737,
+   "sourceFiles": 4385,
    "testFiles": 883,
    "manifests": 2,
    "dependencies": 190,
    "filesAnalyzed": 1500,
-   "loc": 115629,
+   "loc": 115553,
    "endpoints": 108,
-   "pages": 194,
+   "pages": 195,
    "modules": 13,
    "vulnerabilities": 12,
    "services": 6,
    "datastores": 0,
-   "importEdges": 3579
+   "importEdges": 3574
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:31:58.564Z"
+  "analyzedAt": "2026-11-02T11:10:58.812Z"
  },
  {
   "target": "fastapi/fastapi",
   "slug": "fastapi-fastapi",
   "title": "fastapi/fastapi",
   "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
-  "stars": 104524,
+  "stars": 104555,
   "score": 73,
   "grade": "C",
   "stack": [
@@ -348,14 +348,14 @@
    "importEdges": 321
   },
   "language": "Python",
-  "analyzedAt": "2026-11-01T10:30:30.804Z"
+  "analyzedAt": "2026-11-02T11:09:44.865Z"
  },
  {
   "target": "django/django",
   "slug": "django-django",
   "title": "django/django",
   "description": "The Web framework for perfectionists with deadlines.",
-  "stars": 91699,
+  "stars": 91713,
   "score": 76,
   "grade": "C",
   "stack": [
@@ -371,7 +371,7 @@
    "manifests": 3,
    "dependencies": 17,
    "filesAnalyzed": 784,
-   "loc": 166865,
+   "loc": 166867,
    "endpoints": 29,
    "pages": 0,
    "modules": 20,
@@ -381,14 +381,14 @@
    "importEdges": 1645
   },
   "language": "Python",
-  "analyzedAt": "2026-11-01T10:30:43.311Z"
+  "analyzedAt": "2026-11-02T11:09:55.607Z"
  },
  {
   "target": "gin-gonic/gin",
   "slug": "gin-gonic-gin",
   "title": "gin-gonic/gin",
   "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-  "stars": 89466,
+  "stars": 89472,
   "score": 92,
   "grade": "A",
   "stack": [
@@ -411,14 +411,14 @@
    "importEdges": 102
   },
   "language": "Go",
-  "analyzedAt": "2026-11-01T10:31:04.219Z"
+  "analyzedAt": "2026-11-02T11:10:12.795Z"
  },
  {
   "target": "laravel/laravel",
   "slug": "laravel-laravel",
   "title": "laravel/laravel",
   "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
-  "stars": 85222,
+  "stars": 85220,
   "score": 75,
   "grade": "C",
   "stack": [
@@ -443,14 +443,14 @@
    "importEdges": 5
   },
   "language": "Blade",
-  "analyzedAt": "2026-11-01T10:38:01.919Z"
+  "analyzedAt": "2026-11-02T11:15:49.677Z"
  },
  {
   "target": "hoppscotch/hoppscotch",
   "slug": "hoppscotch-hoppscotch",
   "title": "hoppscotch/hoppscotch",
   "description": "Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia",
-  "stars": 80716,
+  "stars": 80722,
   "score": 45,
   "grade": "F",
   "stack": [
@@ -474,20 +474,20 @@
    "endpoints": 60,
    "pages": 0,
    "modules": 107,
-   "vulnerabilities": 84,
+   "vulnerabilities": 85,
    "services": 3,
    "datastores": 1,
    "importEdges": 4624
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:38:13.279Z"
+  "analyzedAt": "2026-11-02T11:16:00.669Z"
  },
  {
   "target": "nestjs/nest",
   "slug": "nestjs-nest",
   "title": "nestjs/nest",
   "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
-  "stars": 76958,
+  "stars": 76964,
   "score": 85,
   "grade": "B",
   "stack": [
@@ -501,30 +501,30 @@
    "WebSockets (ws) 8"
   ],
   "counts": {
-   "files": 2725,
-   "sourceFiles": 1529,
-   "testFiles": 714,
+   "files": 2727,
+   "sourceFiles": 1530,
+   "testFiles": 715,
    "manifests": 11,
    "dependencies": 110,
    "filesAnalyzed": 1500,
-   "loc": 81976,
-   "endpoints": 404,
+   "loc": 82076,
+   "endpoints": 406,
    "pages": 0,
    "modules": 152,
    "vulnerabilities": 0,
    "services": 0,
    "datastores": 8,
-   "importEdges": 3933
+   "importEdges": 3934
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:29:41.669Z"
+  "analyzedAt": "2026-11-02T11:09:06.526Z"
  },
  {
   "target": "pallets/flask",
   "slug": "pallets-flask",
   "title": "pallets/flask",
   "description": "The Python micro framework for building web applications.",
-  "stars": 75154,
+  "stars": 75163,
   "score": 83,
   "grade": "B",
   "stack": [
@@ -548,14 +548,14 @@
    "importEdges": 75
   },
   "language": "Python",
-  "analyzedAt": "2026-11-01T10:30:58.287Z"
+  "analyzedAt": "2026-11-02T11:10:07.324Z"
  },
  {
   "target": "strapi/strapi",
   "slug": "strapi-strapi",
   "title": "strapi/strapi",
   "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
-  "stars": 73420,
+  "stars": 73423,
   "score": 72,
   "grade": "C",
   "stack": [
@@ -569,13 +569,13 @@
    "WebSockets (ws) 8"
   ],
   "counts": {
-   "files": 7238,
+   "files": 7243,
    "sourceFiles": 3584,
-   "testFiles": 2103,
+   "testFiles": 2108,
    "manifests": 51,
    "dependencies": 357,
    "filesAnalyzed": 1500,
-   "loc": 149411,
+   "loc": 149436,
    "endpoints": 5,
    "pages": 0,
    "modules": 46,
@@ -585,14 +585,14 @@
    "importEdges": 3032
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:34:29.058Z"
+  "analyzedAt": "2026-11-02T11:12:50.858Z"
  },
  {
   "target": "expressjs/express",
   "slug": "expressjs-express",
   "title": "expressjs/express",
   "description": "Fast, unopinionated, minimalist web framework for node.",
-  "stars": 69584,
+  "stars": 69586,
   "score": 86,
   "grade": "B",
   "stack": [
@@ -616,14 +616,14 @@
    "importEdges": 22
   },
   "language": "JavaScript",
-  "analyzedAt": "2026-11-01T10:29:18.680Z"
+  "analyzedAt": "2026-11-02T11:08:46.879Z"
  },
  {
   "target": "twentyhq/twenty",
   "slug": "twentyhq-twenty",
   "title": "twentyhq/twenty",
   "description": "The open alternative to Salesforce, designed for AI.",
-  "stars": 60231,
+  "stars": 60295,
   "score": 72,
   "grade": "C",
   "stack": [
@@ -637,30 +637,30 @@
    "Preact 11"
   ],
   "counts": {
-   "files": 38055,
-   "sourceFiles": 24969,
-   "testFiles": 7687,
+   "files": 38033,
+   "sourceFiles": 25017,
+   "testFiles": 7686,
    "manifests": 34,
    "dependencies": 456,
    "filesAnalyzed": 1500,
-   "loc": 121691,
+   "loc": 122913,
    "endpoints": 122,
    "pages": 0,
-   "modules": 80,
+   "modules": 78,
    "vulnerabilities": 49,
    "services": 11,
    "datastores": 5,
-   "importEdges": 3624
+   "importEdges": 3584
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:39:04.176Z"
+  "analyzedAt": "2026-11-02T11:16:38.382Z"
  },
  {
   "target": "appwrite/appwrite",
   "slug": "appwrite-appwrite",
   "title": "appwrite/appwrite",
   "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-  "stars": 57819,
+  "stars": 57845,
   "score": 73,
   "grade": "C",
   "stack": [
@@ -674,31 +674,31 @@
    "MongoDB"
   ],
   "counts": {
-   "files": 15581,
-   "sourceFiles": 6697,
-   "testFiles": 1768,
+   "files": 15742,
+   "sourceFiles": 6822,
+   "testFiles": 1801,
    "manifests": 54,
    "dependencies": 163,
    "filesAnalyzed": 1500,
-   "loc": 214104,
+   "loc": 207815,
    "endpoints": 31,
    "pages": 0,
-   "modules": 103,
+   "modules": 100,
    "vulnerabilities": 25,
    "services": 3,
    "datastores": 5,
-   "importEdges": 1391
+   "importEdges": 1345
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:35:16.701Z"
+  "analyzedAt": "2026-11-02T11:13:34.591Z"
  },
  {
   "target": "TryGhost/Ghost",
   "slug": "tryghost-ghost",
   "title": "TryGhost/Ghost",
   "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
-  "stars": 55648,
-  "score": 79,
+  "stars": 55657,
+  "score": 78,
   "grade": "C",
   "stack": [
    "TypeScript",
@@ -711,30 +711,30 @@
    "Preact"
   ],
   "counts": {
-   "files": 9227,
-   "sourceFiles": 3992,
-   "testFiles": 3110,
+   "files": 9250,
+   "sourceFiles": 3991,
+   "testFiles": 3133,
    "manifests": 56,
-   "dependencies": 398,
+   "dependencies": 399,
    "filesAnalyzed": 1500,
-   "loc": 118705,
+   "loc": 119077,
    "endpoints": 328,
    "pages": 0,
-   "modules": 101,
+   "modules": 102,
    "vulnerabilities": 9,
    "services": 6,
-   "datastores": 4,
-   "importEdges": 2829
+   "datastores": 5,
+   "importEdges": 2841
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:37:38.105Z"
+  "analyzedAt": "2026-11-02T11:15:26.411Z"
  },
  {
   "target": "vuejs/core",
   "slug": "vuejs-core",
   "title": "vuejs/core",
   "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-  "stars": 55019,
+  "stars": 55028,
   "score": 83,
   "grade": "B",
   "stack": [
@@ -757,14 +757,14 @@
    "importEdges": 1281
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:28:57.670Z"
+  "analyzedAt": "2026-11-02T11:08:29.253Z"
  },
  {
   "target": "mastodon/mastodon",
   "slug": "mastodon-mastodon",
   "title": "mastodon/mastodon",
   "description": "Your self-hosted, globally interconnected microblogging community",
-  "stars": 50461,
+  "stars": 50460,
   "score": 72,
   "grade": "C",
   "stack": [
@@ -784,7 +784,7 @@
    "manifests": 3,
    "dependencies": 312,
    "filesAnalyzed": 1500,
-   "loc": 78764,
+   "loc": 78759,
    "endpoints": 304,
    "pages": 0,
    "modules": 22,
@@ -794,14 +794,14 @@
    "importEdges": 294
   },
   "language": "Ruby",
-  "analyzedAt": "2026-11-01T10:36:53.233Z"
+  "analyzedAt": "2026-11-02T11:14:50.727Z"
  },
  {
   "target": "calcom/cal.com",
   "slug": "calcom-cal-com",
   "title": "calcom/cal.diy",
   "description": "Scheduling infrastructure for absolutely everyone.",
-  "stars": 49604,
+  "stars": 49637,
   "score": 56,
   "grade": "F",
   "stack": [
@@ -831,14 +831,14 @@
    "importEdges": 3451
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:31:32.699Z"
+  "analyzedAt": "2026-11-02T11:10:36.648Z"
  },
  {
   "target": "discourse/discourse",
   "slug": "discourse-discourse",
   "title": "discourse/discourse",
   "description": "A platform for community discussion. Free, open, simple.",
-  "stars": 48043,
+  "stars": 48047,
   "score": 70,
   "grade": "C",
   "stack": [
@@ -852,13 +852,13 @@
    "GitHub API"
   ],
   "counts": {
-   "files": 27435,
-   "sourceFiles": 7041,
-   "testFiles": 7119,
-   "manifests": 59,
+   "files": 27692,
+   "sourceFiles": 7090,
+   "testFiles": 7157,
+   "manifests": 60,
    "dependencies": 358,
    "filesAnalyzed": 1500,
-   "loc": 68283,
+   "loc": 68409,
    "endpoints": 0,
    "pages": 0,
    "modules": 2,
@@ -868,14 +868,14 @@
    "importEdges": 0
   },
   "language": "Ruby",
-  "analyzedAt": "2026-11-01T10:37:14.932Z"
+  "analyzedAt": "2026-11-02T11:15:06.988Z"
  },
  {
   "target": "fastapi/full-stack-fastapi-template",
   "slug": "fastapi-full-stack-fastapi-template",
   "title": "fastapi/full-stack-fastapi-template",
   "description": "Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.",
-  "stars": 46134,
+  "stars": 46142,
   "score": 83,
   "grade": "B",
   "stack": [
@@ -905,14 +905,14 @@
    "importEdges": 290
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:30:23.054Z"
+  "analyzedAt": "2026-11-02T11:09:37.934Z"
  },
  {
   "target": "payloadcms/payload",
   "slug": "payloadcms-payload",
   "title": "payloadcms/payload",
   "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
-  "stars": 45606,
+  "stars": 45618,
   "score": 79,
   "grade": "C",
   "stack": [
@@ -942,14 +942,14 @@
    "importEdges": 3772
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:34:01.927Z"
+  "analyzedAt": "2026-11-02T11:12:31.387Z"
  },
  {
   "target": "outline/outline",
   "slug": "outline-outline",
   "title": "outline/outline",
   "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
-  "stars": 41131,
+  "stars": 41140,
   "score": 71,
   "grade": "C",
   "stack": [
@@ -963,67 +963,67 @@
    "WebSockets (ws) 7"
   ],
   "counts": {
-   "files": 2676,
+   "files": 2677,
    "sourceFiles": 1914,
-   "testFiles": 414,
+   "testFiles": 415,
    "manifests": 1,
-   "dependencies": 285,
+   "dependencies": 286,
    "filesAnalyzed": 1500,
-   "loc": 202320,
+   "loc": 202624,
    "endpoints": 30,
    "pages": 0,
    "modules": 74,
    "vulnerabilities": 10,
    "services": 7,
    "datastores": 4,
-   "importEdges": 7506
+   "importEdges": 7512
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:36:29.946Z"
+  "analyzedAt": "2026-11-02T11:14:33.559Z"
  },
  {
   "target": "trpc/trpc",
   "slug": "trpc-trpc",
   "title": "trpc/trpc",
   "description": "🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ",
-  "stars": 40758,
+  "stars": 40760,
   "score": 89,
   "grade": "B",
   "stack": [
    "TypeScript",
    "Express 5",
+   "React 19",
+   "Tailwind CSS",
    "WebSockets (ws)",
    "TanStack Query 5",
    "Next.js (App Router)",
-   "React 16",
-   "Fastify",
-   "Tailwind CSS 3"
+   "Fastify"
   ],
   "counts": {
-   "files": 1642,
-   "sourceFiles": 579,
-   "testFiles": 474,
-   "manifests": 11,
-   "dependencies": 132,
-   "filesAnalyzed": 583,
-   "loc": 49542,
-   "endpoints": 15,
-   "pages": 4,
-   "modules": 70,
+   "files": 1789,
+   "sourceFiles": 656,
+   "testFiles": 485,
+   "manifests": 12,
+   "dependencies": 127,
+   "filesAnalyzed": 660,
+   "loc": 57382,
+   "endpoints": 3,
+   "pages": 0,
+   "modules": 71,
    "vulnerabilities": 2,
-   "services": 3,
+   "services": 2,
    "datastores": 2,
-   "importEdges": 1217
+   "importEdges": 1392
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:33:13.078Z"
+  "analyzedAt": "2026-11-02T11:11:53.834Z"
  },
  {
   "target": "gofiber/fiber",
   "slug": "gofiber-fiber",
   "title": "gofiber/fiber",
   "description": "⚡️ Express inspired web framework written in Go",
-  "stars": 40238,
+  "stars": 40241,
   "score": 93,
   "grade": "A",
   "stack": [
@@ -1036,7 +1036,7 @@
    "manifests": 1,
    "dependencies": 20,
    "filesAnalyzed": 207,
-   "loc": 57450,
+   "loc": 57453,
    "endpoints": 8,
    "pages": 0,
    "modules": 70,
@@ -1046,14 +1046,14 @@
    "importEdges": 1382
   },
   "language": "Go",
-  "analyzedAt": "2026-11-01T10:31:10.711Z"
+  "analyzedAt": "2026-11-02T11:10:18.593Z"
  },
  {
   "target": "directus/directus",
   "slug": "directus-directus",
   "title": "directus/directus",
   "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
-  "stars": 38771,
+  "stars": 38787,
   "score": 89,
   "grade": "B",
   "stack": [
@@ -1083,14 +1083,14 @@
    "importEdges": 5371
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:34:53.632Z"
+  "analyzedAt": "2026-11-02T11:13:08.715Z"
  },
  {
   "target": "fastify/fastify",
   "slug": "fastify-fastify",
   "title": "fastify/fastify",
   "description": "Fast and low overhead web framework, for Node.js",
-  "stars": 37337,
+  "stars": 37338,
   "score": 81,
   "grade": "B",
   "stack": [
@@ -1104,7 +1104,7 @@
    "manifests": 1,
    "dependencies": 50,
    "filesAnalyzed": 70,
-   "loc": 13805,
+   "loc": 13857,
    "endpoints": 23,
    "pages": 0,
    "modules": 8,
@@ -1114,15 +1114,15 @@
    "importEdges": 212
   },
   "language": "JavaScript",
-  "analyzedAt": "2026-11-01T10:29:25.261Z"
+  "analyzedAt": "2026-11-02T11:08:52.648Z"
  },
  {
   "target": "medusajs/medusa",
   "slug": "medusajs-medusa",
   "title": "medusajs/medusa",
   "description": "The world's most flexible commerce platform for agents and developers",
-  "stars": 37037,
-  "score": 67,
+  "stars": 37053,
+  "score": 68,
   "grade": "D",
   "stack": [
    "TypeScript",
@@ -1135,7 +1135,7 @@
    "GraphQL 17"
   ],
   "counts": {
-   "files": 24646,
+   "files": 24651,
    "sourceFiles": 9468,
    "testFiles": 1579,
    "manifests": 116,
@@ -1145,20 +1145,20 @@
    "endpoints": 32,
    "pages": 952,
    "modules": 44,
-   "vulnerabilities": 28,
+   "vulnerabilities": 27,
    "services": 10,
    "datastores": 5,
    "importEdges": 373
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:40:22.976Z"
+  "analyzedAt": "2026-11-02T11:17:37.191Z"
  },
  {
   "target": "remix-run/remix",
   "slug": "remix-run-remix",
   "title": "remix-run/remix",
   "description": "The fully-stacked web framework",
-  "stars": 33441,
+  "stars": 33440,
   "score": 80,
   "grade": "B",
   "stack": [
@@ -1185,14 +1185,14 @@
    "importEdges": 2444
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:30:04.090Z"
+  "analyzedAt": "2026-11-02T11:09:23.399Z"
  },
  {
   "target": "honojs/hono",
   "slug": "honojs-hono",
   "title": "honojs/hono",
   "description": "Web framework built on Web Standards",
-  "stars": 32766,
+  "stars": 32785,
   "score": 87,
   "grade": "B",
   "stack": [
@@ -1216,14 +1216,14 @@
    "importEdges": 628
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:29:32.666Z"
+  "analyzedAt": "2026-11-02T11:08:59.092Z"
  },
  {
   "target": "t3-oss/create-t3-app",
   "slug": "t3-oss-create-t3-app",
   "title": "t3-oss/create-t3-app",
   "description": "The best way to start a full-stack, typesafe Next.js app ",
-  "stars": 29194,
+  "stars": 29195,
   "score": 42,
   "grade": "F",
   "stack": [
@@ -1253,14 +1253,14 @@
    "importEdges": 238
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:33:52.267Z"
+  "analyzedAt": "2026-11-02T11:12:23.407Z"
  },
  {
   "target": "tokio-rs/axum",
   "slug": "tokio-rs-axum",
   "title": "tokio-rs/axum",
   "description": "HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity",
-  "stars": 27670,
+  "stars": 27682,
   "score": 82,
   "grade": "B",
   "stack": [
@@ -1270,30 +1270,30 @@
    "Redis"
   ],
   "counts": {
-   "files": 506,
-   "sourceFiles": 178,
+   "files": 508,
+   "sourceFiles": 180,
    "testFiles": 180,
    "manifests": 5,
    "dependencies": 52,
-   "filesAnalyzed": 178,
-   "loc": 42513,
+   "filesAnalyzed": 180,
+   "loc": 43189,
    "endpoints": 105,
    "pages": 0,
    "modules": 80,
    "vulnerabilities": 6,
    "services": 0,
    "datastores": 2,
-   "importEdges": 171
+   "importEdges": 173
   },
   "language": "Rust",
-  "analyzedAt": "2026-11-01T10:33:04.684Z"
+  "analyzedAt": "2026-11-02T11:11:47.033Z"
  },
  {
   "target": "sveltejs/kit",
   "slug": "sveltejs-kit",
   "title": "sveltejs/kit",
   "description": "web development, streamlined",
-  "stars": 20891,
+  "stars": 20892,
   "score": 91,
   "grade": "A",
   "stack": [
@@ -1303,30 +1303,30 @@
    "OpenTelemetry"
   ],
   "counts": {
-   "files": 3220,
+   "files": 3245,
    "sourceFiles": 326,
-   "testFiles": 2365,
+   "testFiles": 2380,
    "manifests": 12,
-   "dependencies": 45,
+   "dependencies": 46,
    "filesAnalyzed": 325,
-   "loc": 55132,
+   "loc": 55299,
    "endpoints": 0,
    "pages": 0,
    "modules": 34,
    "vulnerabilities": 2,
    "services": 1,
    "datastores": 0,
-   "importEdges": 753
+   "importEdges": 755
   },
   "language": "JavaScript",
-  "analyzedAt": "2026-11-01T10:29:07.631Z"
+  "analyzedAt": "2026-11-02T11:08:37.990Z"
  },
  {
   "target": "documenso/documenso",
   "slug": "documenso-documenso",
   "title": "documenso/documenso",
   "description": "The Open Source DocuSign Alternative.",
-  "stars": 15623,
+  "stars": 15629,
   "score": 46,
   "grade": "F",
   "stack": [
@@ -1356,14 +1356,14 @@
    "importEdges": 5769
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:38:36.893Z"
+  "analyzedAt": "2026-11-02T11:16:19.598Z"
  },
  {
   "target": "formbricks/formbricks",
   "slug": "formbricks-formbricks",
   "title": "formbricks/formbricks",
   "description": "Open Source Qualtrics Alternative",
-  "stars": 13204,
+  "stars": 13211,
   "score": 82,
   "grade": "B",
   "stack": [
@@ -1383,7 +1383,7 @@
    "manifests": 26,
    "dependencies": 239,
    "filesAnalyzed": 1500,
-   "loc": 184548,
+   "loc": 184568,
    "endpoints": 258,
    "pages": 88,
    "modules": 52,
@@ -1393,14 +1393,14 @@
    "importEdges": 4232
   },
   "language": "TypeScript",
-  "analyzedAt": "2026-11-01T10:39:34.177Z"
+  "analyzedAt": "2026-11-02T11:17:00.662Z"
  },
  {
   "target": "frappe/frappe",
   "slug": "frappe-frappe",
   "title": "frappe/frappe",
   "description": "Low code web framework for real world applications, in Python and Javascript",
-  "stars": 11041,
+  "stars": 11044,
   "score": 47,
   "grade": "F",
   "stack": [
@@ -1414,30 +1414,30 @@
    "Tailwind CSS 3"
   ],
   "counts": {
-   "files": 5478,
-   "sourceFiles": 3107,
-   "testFiles": 824,
+   "files": 5487,
+   "sourceFiles": 3112,
+   "testFiles": 828,
    "manifests": 11,
    "dependencies": 232,
    "filesAnalyzed": 1047,
-   "loc": 197680,
+   "loc": 197866,
    "endpoints": 54,
    "pages": 0,
    "modules": 48,
-   "vulnerabilities": 159,
+   "vulnerabilities": 152,
    "services": 2,
    "datastores": 4,
    "importEdges": 2694
   },
   "language": "Python",
-  "analyzedAt": "2026-11-01T10:39:58.943Z"
+  "analyzedAt": "2026-11-02T11:17:19.676Z"
  },
  {
   "target": "spring-projects/spring-petclinic",
   "slug": "spring-projects-spring-petclinic",
   "title": "spring-projects/spring-petclinic",
   "description": "A sample Spring-based application",
-  "stars": 9619,
+  "stars": 9621,
   "score": 95,
   "grade": "A",
   "stack": [
@@ -1465,6 +1465,6 @@
    "importEdges": 10
   },
   "language": "CSS",
-  "analyzedAt": "2026-11-01T10:38:07.532Z"
+  "analyzedAt": "2026-11-02T11:15:55.266Z"
  }
 ]
